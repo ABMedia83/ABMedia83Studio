@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ABMedia83CMD/1.0.0": {
+        "dependencies": {
+          "Albert": "1.0.0",
+          "Albert.Win32": "1.0.0"
+        },
+        "runtime": {
+          "ABMedia83CMD.dll": {}
+        }
+      },
+      "Albert/1.0.0": {
+        "runtime": {
+          "Albert.dll": {}
+        }
+      },
+      "Albert.Win32/1.0.0": {
+        "dependencies": {
+          "Albert": "1.0.0"
+        },
+        "runtime": {
+          "Albert.Win32.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ABMedia83CMD/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Albert/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Albert.Win32/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

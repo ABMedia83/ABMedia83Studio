@@ -1,0 +1,12 @@
+C:\AMB\Git\ABMedia83Studio\Albert\bin\Release\net8.0\Albert.deps.json
+C:\AMB\Git\ABMedia83Studio\Albert\bin\Release\net8.0\Albert.dll
+C:\AMB\Git\ABMedia83Studio\Albert\bin\Release\net8.0\Albert.pdb
+C:\AMB\Git\ABMedia83Studio\Albert\obj\Release\net8.0\Albert.GeneratedMSBuildEditorConfig.editorconfig
+C:\AMB\Git\ABMedia83Studio\Albert\obj\Release\net8.0\Albert.AssemblyInfoInputs.cache
+C:\AMB\Git\ABMedia83Studio\Albert\obj\Release\net8.0\Albert.AssemblyInfo.cs
+C:\AMB\Git\ABMedia83Studio\Albert\obj\Release\net8.0\Albert.csproj.CoreCompileInputs.cache
+C:\AMB\Git\ABMedia83Studio\Albert\obj\Release\net8.0\Albert.sourcelink.json
+C:\AMB\Git\ABMedia83Studio\Albert\obj\Release\net8.0\Albert.dll
+C:\AMB\Git\ABMedia83Studio\Albert\obj\Release\net8.0\refint\Albert.dll
+C:\AMB\Git\ABMedia83Studio\Albert\obj\Release\net8.0\Albert.pdb
+C:\AMB\Git\ABMedia83Studio\Albert\obj\Release\net8.0\ref\Albert.dll
